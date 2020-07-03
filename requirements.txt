@@ -1,0 +1,14 @@
+###
+# This file is only here to make sure that something like
+#
+#    pip install -e .
+#
+# works as expected. Requirements can be found in setup.py.
+###
+
+.
+
+setuptools~=47.3.1
+OctoPrint~=1.4.1.dev377+ge3a83ccb
+future~=0.18.2
+Flask~=1.1.2

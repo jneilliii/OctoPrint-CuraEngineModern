@@ -1,0 +1,6 @@
+include README.md
+recursive-include octoprint_curamodern/templates *
+recursive-include octoprint_curamodern/translations *
+recursive-include octoprint_curamodern/static *
+recursive-include octoprint_curamodern/profiles *
+recursive-include octoprint_curamodern/resources *
